@@ -4,8 +4,8 @@
 
 # プロジェクトの作成
 ## Organizationの適切な設定
-* 一部の機能がPersonal Versionでは制限されるため、Professional Versionでプロジェクトを作成する。背景色が黒いエディター。　2.png
-
+* 一部の機能がPersonal Versionでは制限されるため、Professional Versionでプロジェクトを作成する。背景色が黒いエディター。
+![1](https://user-images.githubusercontent.com/20265353/77128555-d5ec6e80-6a93-11ea-8097-9d67027be4ae.png)
 
 
 # プロジェクトの共有
