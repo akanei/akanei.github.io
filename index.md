@@ -28,11 +28,30 @@
 * ↓アイコンでフォルダを指定してダウンロード。
 
 # プロジェクトの初期設定 (Oculus Quest)
-* [参考URL：フレームシンセンス様](https://framesynthesis.jp/tech/unity/oculusquest/)
-* 実作業する際はチェックシートを用意すると便利。
+* [参考URL：フレームシンセンス](https://framesynthesis.jp/tech/unity/oculusquest/)
 
-## 書き出しリスト
-- [ ] item
+# Oculus Integrationのインポート
+
+# ユーザー操作受付
+
+# CG操作
+
+# UI操作
+
+# アニメーション操作
+
+# 設計
+https://www.slideshare.net/torisoup/unityzenject
+https://scrapbox.io/pf35301/SOLID%E5%8E%9F%E5%89%87
+http://unity-yuji.xyz/object-oriented-code-design-solid/
+https://qiita.com/Nekomasu/items/fe175fbb2cd4282a0e1c
+クラス図を基に、各機能の最低限をつくる。
+MVCはいったん忘れる。
+SOLID､
+オープンクローズド原則
+依存性逆転の原則
+
+
 
 
 
