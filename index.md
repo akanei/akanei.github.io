@@ -32,6 +32,8 @@
 
 # Oculus Integrationのインポート
 
+# 以下、MVCにとらわれずわかりやすいネーミングでサンプル実装。細分化＜単一責任原則＞
+
 # ユーザー操作受付
 
 # CG操作
@@ -39,6 +41,8 @@
 # UI操作
 
 # アニメーション操作
+
+# TODO...設計は深入りすると時間無限なので現状のまとめ優先。
 
 # 設計
 * https://www.slideshare.net/torisoup/unityzenject
