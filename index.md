@@ -41,10 +41,11 @@
 # アニメーション操作
 
 # 設計
-https://www.slideshare.net/torisoup/unityzenject
-https://scrapbox.io/pf35301/SOLID%E5%8E%9F%E5%89%87
-http://unity-yuji.xyz/object-oriented-code-design-solid/
-https://qiita.com/Nekomasu/items/fe175fbb2cd4282a0e1c
+* https://www.slideshare.net/torisoup/unityzenject
+* https://scrapbox.io/pf35301/SOLID%E5%8E%9F%E5%89%87
+* http://unity-yuji.xyz/object-oriented-code-design-solid/
+* https://qiita.com/Nekomasu/items/fe175fbb2cd4282a0e1c
+* https://www.slideshare.net/torisoup/ss-148151761
 クラス図を基に、各機能の最低限をつくる。
 MVCはいったん忘れる。
 SOLID､
